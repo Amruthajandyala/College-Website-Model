@@ -139,7 +139,7 @@ ul{
     background-size: 100% 100%;
     animation: slider 20s infinite linear;
     display:block;
-    margin-left: 207px;
+    margin-left: 20px;
     
 }
 @keyframes slider {
@@ -162,7 +162,7 @@ ul{
     width: 503px;
     height: 22px;
     font-size: 20px;
-    margin-left: 207px;
+    margin-left: 20px;
 }
 .box .foreign a:hover{
     color: #08387F;
@@ -196,7 +196,7 @@ ul{
     margin-bottom: 20px;
 }
 body .footer{
-    margin-left: 207px;
+    margin-left: 20px;
 }
 .footer{
     width:1080px;
